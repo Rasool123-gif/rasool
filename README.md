@@ -8,9 +8,14 @@
 <h2>Projects</h2>
 <table>
   <tr>
-  <th><b>Authentication and Encryption of users data</b></th>
-  <th>The main aim of this project is storing the users password in encrypted manner.</th>
-  <th><a href="https://tranquil-temple-18436.herokuapp.com/">Website Link</a></th>
+  <th>Title</th>
+  <th>Description</th>
+  <th>Any Links</th>
+  </tr>
+  <tr>
+  <td>Authentication and Encryption of users data</td>
+  <td>The main aim of this project is storing the users password in encrypted manner.</td>
+  <td><a href="https://tranquil-temple-18436.herokuapp.com/">Website Link</a></td>
   </tr>
 </table>
 <h2>Badges</h2>
