@@ -33,6 +33,12 @@
   <td><a href="https://rasool123-gif.github.io/Portfolio/">Website Link</a></td>
   </tr>
 </table>
+<h2>Honors & Awards</h2>
+<p><b>Hacktoberfest 2020 && 2021 Winner</b></p>
+<p>Hacktoberfest is a month-long celebration of open source software sponsored by Digital Ocean, Intel, and DEV. The main goal of the event is to encourage participation in the open-source community all across the world. Open any four pull requests from any source code. The source code should have a Hacktoberfest tag. 
+I made four PRs within that month and I am one of the winners in that challenge and got swags.</p>
+<p><b>Dean Merit Scholarship</b></p>
+<p>It is issued by the Sastra University those who got top 10% score in thier branch. i am the one among them</p>
 <h2>Badges</h2>
 [![@rasool123's Holopin board](https://holopin.me/rasool123)](https://holopin.io/@rasool123)
 
