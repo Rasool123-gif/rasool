@@ -22,6 +22,16 @@
   <td>A machine learning model is developed to check whether a URL is malicious or benign</td>
   <td><a href="https://github.com/Rasool123-gif/Malicious_URL_Detection">Github Link</a></td>
   </tr>
+  <tr>
+  <td>Lung Cancer Classification</td>
+  <td>A Machine learning and Deep learning model is used to predict Non-Small Cell Lung Cancer type (NSCLC)</td>
+  <td><a href="https://github.com/Rasool123-gif/Lung_Cancer_Classification">Github Link</a></td>
+  </tr>
+  <tr>
+  <td>Clone of my resume into a website</td>
+  <td>The website is created by using Front End Technologies</td>
+  <td><a href="https://rasool123-gif.github.io/Portfolio/">Website Link</a></td>
+  </tr>
 </table>
 <h2>Badges</h2>
 [![@rasool123's Holopin board](https://holopin.me/rasool123)](https://holopin.io/@rasool123)
