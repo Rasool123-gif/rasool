@@ -17,6 +17,11 @@
   <td>The main aim of this project is storing the users password in encrypted manner.</td>
   <td><a href="https://tranquil-temple-18436.herokuapp.com/">Website Link</a></td>
   </tr>
+  <tr>
+  <td>Malicious Url Detection</td>
+  <td>A machine learning model is developed to check whether a URL is malicious or benign</td>
+  <td><a href="https://github.com/Rasool123-gif/Malicious_URL_Detection">Github Link</a></td>
+  </tr>
 </table>
 <h2>Badges</h2>
 [![@rasool123's Holopin board](https://holopin.me/rasool123)](https://holopin.io/@rasool123)
