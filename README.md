@@ -7,9 +7,10 @@
 </ul>
 <h2>Projects</h2>
 <ul>
-  <li>Authentication and Encryption of users data<li>
+  <li><b>Authentication and Encryption of users data</b><li>
   <p>The main aim of this project is storing the users password in encrypted manner.</p>
   <a href="https://tranquil-temple-18436.herokuapp.com/">Website Link</a>
+</ul>
 <h2>Badges</h2>
-<p>[![@rasool123's Holopin board](https://holopin.me/rasool123)](https://holopin.io/@rasool123)</p>
+[![@rasool123's Holopin board](https://holopin.me/rasool123)](https://holopin.io/@rasool123)
 
