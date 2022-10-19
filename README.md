@@ -1,4 +1,5 @@
 <h2>Bio Data</h2>
+[![@rasool123's Holopin board](https://holopin.me/rasool123)](https://holopin.io/@rasool123)
 <h3>Hi all,This is Shaik Nayab Rasool</h3>
 <ul>
 <li>Currently pursuing B-Tech final year in Sastra University .</li>
@@ -50,5 +51,5 @@ I made four PRs within that month and I am one of the winners in that challenge 
   <li>GIT</li>
  </ol>
 <h2>Badges</h2>
-[![@rasool123's Holopin board](https://holopin.me/rasool123)](https://holopin.io/@rasool123)
+
 
