@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
 <h2>Bio Data</h2>
 <h3>Hi all,This is Shaik Nayab Rasool</h3>
 <ul>
@@ -51,4 +60,6 @@ I made four PRs within that month and I am one of the winners in that challenge 
  </ol>
 <h2>Badges</h2>
 <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=640&q=75" alt="DigitalOcean" width="200" height="200">
+</body>
+</html>
 
