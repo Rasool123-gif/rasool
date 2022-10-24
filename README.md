@@ -47,7 +47,7 @@
 <p>Hacktoberfest is a month-long celebration of open source software sponsored by Digital Ocean, Intel, and DEV. The main goal of the event is to encourage participation in the open-source community all across the world. Open any four pull requests from any source code. The source code should have a Hacktoberfest tag. 
 I made four PRs within that month and I am one of the winners in that challenge and got swags.</p>
 <p><b>Dean Merit Scholarship</b></p>
-<p>It is issued by the Sastra University those who got top 10% score in thier branch. i am the one among them .</p>
+<p>Every year top 10% of the students in a branch gets this scholarship, I am one among those students</p>
 <h2>Skills</h2>
 <ol>
   <li>HTML</li>
